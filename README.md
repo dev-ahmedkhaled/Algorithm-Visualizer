@@ -23,8 +23,8 @@ A cross‑platform, full‑screen algorithm visualizer using [Raylib](https://ww
 
 **Using conda:**
 
-- conda create -n <name>
-- conda activate <name>
+- conda create -n name_of_env
+- conda activate name_of_env
 
 
 **Using pip:**
