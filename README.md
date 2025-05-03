@@ -18,3 +18,42 @@ A cross‑platform, full‑screen algorithm visualizer using [Raylib](https://ww
 1. **Clone the repository**  
    git clone https://github.com/<your‑username>/algorithm‑visualizer.git
    cd algorithm‑visualizer
+
+2. **Create and activate a virtual environment**
+   Using conda:
+<textarea>
+   conda create -n <name>
+   conda activate <name>
+</textarea>
+   Using pip:
+   <textarea>
+   python3 -m venv venv
+   source venv/bin/activate
+   </textarea>
+   
+
+
+4. **Install dependencies**
+   using pip:
+   <textarea>
+   cd <the_file_location>
+   pip install -r requirements.txt
+   </textarea>
+   Using conda:
+   <textarea>
+   conda install --yes --file requirements.txt
+   </textarea>
+
+
+## Usage
+- **← / →** : Change algorithm  
+- **↑ / ↓** : Change category (Sorting, Searching, Trees, Graph)  
+- **SPACE**   : Start / Pause animation  
+- **R**       : Reset data or structure  
+- **+ / –**   : Increase / Decrease animation speed  
+- **T**       :  
+  - Searching → Pick a new random target  
+  - Trees (Traversals) → Cycle traversal type  
+- **I / D / S** : (BST only) Insert / Delete / Search a random value  
+- **Click**   : (Graph only) Select a node  
+- **S / E**   : (Graph only) Set Start / End node for pathfinding 
