@@ -23,32 +23,30 @@ A cross‑platform, full‑screen algorithm visualizer using [Raylib](https://ww
 
 **Using conda:**
 
-<textarea readonly rows="3" style="width:100%; font-family: monospace;">
 conda create -n <name>
 conda activate <name>
-</textarea>
+
 
 **Using pip:**
 
-<textarea readonly rows="3" style="width:100%; font-family: monospace;">
+
 python3 -m venv venv
 source venv/bin/activate
-</textarea>
+
 
 ## 4. Install dependencies
 
 **Using pip:**
 
-<textarea readonly rows="3" style="width:100%; font-family: monospace;">
 cd <the_file_location>
 pip install -r requirements.txt
-</textarea>
+
+
 
 **Using conda:**
 
-<textarea readonly rows="2" style="width:100%; font-family: monospace;">
 conda install --yes --file requirements.txt
-</textarea>
+
 
 ## Usage
 - **← / →** : Change algorithm  
