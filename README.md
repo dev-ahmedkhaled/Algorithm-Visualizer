@@ -15,37 +15,37 @@ A cross‑platform, full‑screen algorithm visualizer using [Raylib](https://ww
 
 ## Installation
 
-1. **Clone the repository**  
-   git clone https://github.com/<your‑username>/algorithm‑visualizer.git
-   cd algorithm‑visualizer
+1. **Clone the repository**
+- git clone https://github.com/<your‑username>/algorithm‑visualizer.git
+- cd algorithm‑visualizer
    
-2. Create and activate a virtual environment
+3. Create and activate a virtual environment
 
 **Using conda:**
 
-conda create -n <name>
-conda activate <name>
+- conda create -n <name>
+- conda activate <name>
 
 
 **Using pip:**
 
 
-python3 -m venv venv
-source venv/bin/activate
+- python3 -m venv venv
+- source venv/bin/activate
 
 
 ## 4. Install dependencies
 
 **Using pip:**
 
-cd <the_file_location>
-pip install -r requirements.txt
+- cd <the_file_location>
+- pip install -r requirements.txt
 
 
 
 **Using conda:**
 
-conda install --yes --file requirements.txt
+- conda install --yes --file requirements.txt
 
 
 ## Usage
