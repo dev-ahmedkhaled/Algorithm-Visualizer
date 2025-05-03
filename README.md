@@ -16,7 +16,7 @@ A cross‑platform, full‑screen algorithm visualizer using [Raylib](https://ww
 ## Installation
 
 1. **Clone the repository**
-- git clone https://github.com/<your‑username>/algorithm‑visualizer.git
+- git clone https://github.com/dev-ahmedkhaled/algorithm‑visualizer.git
 - cd algorithm‑visualizer
    
 3. Create and activate a virtual environment
