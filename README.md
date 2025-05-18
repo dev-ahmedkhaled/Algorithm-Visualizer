@@ -54,9 +54,6 @@ A cross‑platform, full‑screen algorithm visualizer using [Raylib](https://ww
 - **SPACE**   : Start / Pause animation  
 - **R**       : Reset data or structure  
 - **+ / –**   : Increase / Decrease animation speed  
-- **T**       :  
-  - Searching → Pick a new random target  
-  - Trees (Traversals) → Cycle traversal type  
 - **I / D / S** : (BST only) Insert / Delete / Search a random value  
 - **Click**   : (Graph only) Select a node  
 - **S / E**   : (Graph only) Set Start / End node for pathfinding 
